@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@200;400&family=Caveat:wght@400;500;700&family=PT+Serif&family=Playfair+Display:wght@400;600&display=swap');
 .bodyColor{
-    background: rgb(246, 240, 233);
+    background: rgb(222, 218, 204);
 }
 body h1, h4, .nav-link ,p ,.card-title, .btn-group-vertical, figcaption{
     font-family: 'Caveat', cursive;
