@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@200;400&family=Caveat:wght@400;500;700&family=PT+Serif&family=Playfair+Display:wght@400;600&display=swap');
+.bodyColor{
+    background-color: rgb(222, 218, 204);
+}
+body h1, h4, .nav-link ,p ,.card-title, figcaption, section{
+    font-family: 'Caveat', cursive;
+}
+/*couleur des boutons et taille*/
+.button{
+    width:250px;
+    margin-top: 2%;
+}
+section .btn{
+    font-size: 1.7em;
+}
+#btn1{
+    background-color: rgb(235, 220, 143);
+}
+#btn2{
+    background-color: rgb(232, 206, 78);
+}
+#btn3{
+    background-color: rgb(233, 184, 36);
+}
+#btn4{
+    background-color: rgb(235, 116, 76);
+}
+#btn5{
+    background-color: rgb(242, 65, 6);
+}
+/*containers des photos de lapage acceuil*/
+#pic1, #pic2{
+    height:150px;
+    width:200px;
+    margin-top: 10%;
+}
+#pic3, #pic4{
+    height:150px;
+    width:250px;
+    margin-top: 10%;
+}
+h4 .title2{
+    margin-top: 2%;
+}
+/* style du footer*/
+.card{
+    margin-top: 5%;
+}
+.card-body{
+    background-color: rgb(135, 227, 237);
+}
+ul, .agendatextColor{
+    font-weight: bold;
+}
+.agendaTextColor{
+    color: rgb(255, 77, 0);
+}
+.agendaTitleColor{
+    color: blue;
+}
+.freeStyle{
+    font-size: 1.8em;
+}
+.agendaSection{
+    margin-top: 10%;
+}
+@media screen and (max-width: 522px){
+    .button.btn{
+        font-size: 1.8rem;
+        width: 100%;
+    }
+}
+
+
+
